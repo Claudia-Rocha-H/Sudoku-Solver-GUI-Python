@@ -1,4 +1,1 @@
-Implementación en Python de un solucionador de sudokus con interfaz grafica. La solución se obtiene mediante backtracking.
-
-Sudoku solver developed in Python with a visual interface. The solution is obtained through backtracking.
-
+This project presents a Sudoku Solver application implemented in Python, featuring a user-friendly graphical interface. The core of the solver utilizes the backtracking algorithm, an efficient method for finding solutions to constraint satisfaction problems. This application allows users to input Sudoku puzzles,and obtain the unique solution for valid puzzles.
