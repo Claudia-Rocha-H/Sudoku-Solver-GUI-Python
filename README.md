@@ -2,6 +2,12 @@
 
 This project is a **Sudoku Solver** application implemented in Python with a **user-friendly graphical interface**. It utilizes the **backtracking algorithm** to efficiently find unique solutions for valid Sudoku puzzles, allowing users to input puzzles and obtain solutions.
 
+## Demo
+
+<p align="center">
+  <img src="Assets/Demo.gif" alt="Sudoku Solver Demo" width="850">
+</p>
+
 ## Key Features
 
 * **Interactive GUI:** A clean and intuitive graphical interface for inputting Sudoku puzzles.
